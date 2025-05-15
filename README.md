@@ -1,0 +1,1 @@
+# Windows-Reset-Machine-ID
